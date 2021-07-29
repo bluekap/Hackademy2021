@@ -9,11 +9,11 @@ import { HomeService } from 'src/app/services/home.service';
 export class ExpensesComponent implements OnInit {
 
   public rooms = [
-        { room: 'Electronics', budget:80000 },
-        { room: 'Grocery', budget: 900 },
-        { room: 'Apparels', budget: 1300 },
-        { room: 'Food', budget: 60 },
-        { room: 'Furniture', budget: 12900 }
+        { room: 'Energy', budget:80000 },
+        { room: 'Automobile', budget: 900 },
+        { room: 'Logistics', budget: 1300 },
+        { room: 'Agriculture', budget: 60 },
+        { room: 'Construction', budget: 12900 }
       /*  { room: 'Outdoors', budget: 0 },
         { room: 'Laundry Room', budget: 1000 },
         { room: 'Misc', budget: 500 },
